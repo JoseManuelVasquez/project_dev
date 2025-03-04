@@ -28,4 +28,4 @@ filename: README.md
 ```
 
 
-**Note: the file contains extra tasks to be completed in this repo ;)**
+**Note: the file contains a password to extract zip file for exercise 3 (Kubernetes)
